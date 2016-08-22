@@ -1,0 +1,13 @@
+#Function Use Alert Box
+
+<script type="text/javascript">
+    
+        function GetName(x) {
+            alert("You'r Name is:" + x);
+        }
+
+        GetName("Anower");
+        GetName("AnowerUllah");
+        GetName("AnowerUllahRubel");
+    
+</script>
